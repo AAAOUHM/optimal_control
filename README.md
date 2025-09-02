@@ -1,5 +1,5 @@
 **Optimal Control Problems for Dynamic Systems**
-This project solves two optimal control problems to **minimize time and fuel consumption,** with control inputs constrained to [-1, +1]. The systems are an undamped harmonic oscillator (pendulum) and a car on a frictionless x-axis.
+This project focuses on solving two optimal control problems to **minimize time and fuel consumption,** with control inputs constrained to [-1, +1]. The systems are an undamped harmonic oscillator (pendulum) and a car on a frictionless x-axis.
 **Simulation Instructions**
 To run the simulations for these optimal control problems:
 
